@@ -1,0 +1,52 @@
+[
+    {
+      "name": "amazon",
+      "path": "/companies/amazon.png",
+      "id": 1
+    },
+    {
+      "name": "atlassian",
+      "path": "/companies/atlassian.svg",
+      "id": 2
+    },
+    {
+      "name": "google",
+      "path": "/companies/uber.png",
+      "id": 3
+    },
+    {
+      "name": "microsoft",
+      "path": "/companies/microsoft.png",
+      "id": 4
+    },
+    {
+      "name": "meta",
+      "path": "/companies/meta.svg",
+      "id": 5
+    },
+    {
+      "name": "fiverr",
+      "path": "/companies/fiverr.png",
+      "id": 6
+    },
+    {
+      "name": "netflix",
+      "path": "/companies/netflix.png",
+      "id": 7
+    },
+    {
+      "name": "uber",
+      "path": "/companies/uber.png",
+      "id": 8
+    },
+    {
+        "name": "tiktok",
+        "path": "/companies/tiktok.png",
+        "id": 7
+      },
+      {
+        "name": "semrush",
+        "path": "/companies/semrush.png",
+        "id": 8
+      }
+  ]
