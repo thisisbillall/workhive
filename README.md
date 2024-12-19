@@ -1,4 +1,4 @@
-# workhive - a Job Portal<br/>
+# WORKHIVE - A Modern Job Site<br/>
 Tech Stack: Git, React Js, Tailwind CSS, Shadcn, Supabase, Clerk,  Docker, Kubernetes and Vercel. <br/>
 1] Designed and developed a fully functional job portal to connect employers and job seekers, providing features like job posting, job listings, user profiles, and applications.<br/>
 2] Built a responsive and intuitive frontend using React.js and Tailwind CSS, ensuring a seamless user experience across devices.<br/>
